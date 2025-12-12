@@ -24,15 +24,13 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
 <h3 align="center">🛠 Tech Stack</h3>
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/Languages-Code-black?style=flat-square" />
   <br/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Data_Science-Tools-black?style=flat-square" />
@@ -40,7 +38,6 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -50,7 +47,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
   <img src="https://img.shields.io/badge/Tools-Platforms-black?style=flat-square" />
   <br/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <br/>
