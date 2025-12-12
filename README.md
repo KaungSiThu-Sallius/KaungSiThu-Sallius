@@ -32,23 +32,24 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
   <img src="https://img.shields.io/badge/Data_Science-Tools-black?style=flat-square" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,seaborn&theme=dark" />
+
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-777.svg?style=for-the-badge&logo=python&logoColor=white" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Tools-Platforms-black?style=flat-square" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,linux,jupyter,mysql,aws,tableau&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,linux,jupyter,aws,tableau&theme=dark" />
 
 </div>
 
-<h2 align="center">🛠  Data Science Stack</h2>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,vscode,docker,git,linux,mysql,aws&theme=dark&perline=6" />
-  </a>
-</div>
-
-<br/>
+<br />
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
