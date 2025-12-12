@@ -23,6 +23,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
 <br/>
 
+<hr />
 <h3 align="center">🛠 Tech Stack</h3>
 
 <div align="center">
