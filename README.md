@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/KaungSiThu-Sallius/KaungSiThu-Sallius/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
