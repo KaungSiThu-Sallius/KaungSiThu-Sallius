@@ -13,12 +13,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=KaungSiThu-Sallius&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaungSiThu-Sallius&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaungSiThu-Sallius&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaungSiThu-Sallius&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <br/>
