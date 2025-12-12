@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=import+pandas+as+pd;model.fit(X_train,+y_train);print('Hello,+Data+World!');Always+analyzing+data..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Welcome to my Data World" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">YOUR_NAME</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a> 👋</h1>
   <h3 align="center">Data Scientist | ML Engineer | Python Enthusiast</h3>
 </div>
 
