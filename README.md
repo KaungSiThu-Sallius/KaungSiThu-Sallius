@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=435&lines=Welcome+to+my+Data+World" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div align="left">
   <h1 align="center">
     Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a>
     <br />
