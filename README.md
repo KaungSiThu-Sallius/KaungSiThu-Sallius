@@ -12,24 +12,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
 
 <h2 align="center">🛠  Data Science Stack</h2>
 <div align="center">
@@ -48,3 +30,23 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
