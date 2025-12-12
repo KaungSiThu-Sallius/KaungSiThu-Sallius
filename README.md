@@ -27,7 +27,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
   <img src="https://img.shields.io/badge/Languages-Code-black?style=flat-square" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,r,java,sql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql&theme=dark" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Data_Science-Tools-black?style=flat-square" />
