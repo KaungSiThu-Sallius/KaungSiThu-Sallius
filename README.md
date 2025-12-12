@@ -20,7 +20,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 * 💬 **Ask me about:** Python, Data Visualization, and Machine Learning algorithms.
 * ⚡ **Fun fact:** I love turning messy datasets into beautiful stories!
 
-Contact Me Here: 
+** Contact Me Here: **
 <div align="left">
   <a href="https://www.linkedin.com/in/kaung-si-thu01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -68,14 +68,14 @@ Contact Me Here:
 
 </div>
 
-<br />
-<div align="center">
+<hr />
+<div align="left">
   <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
   <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
 </div>
