@@ -69,15 +69,17 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 </div>
 
 <hr />
-<div align="left">
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
-</div>
-
-<br/>
+<h3 align="left">📈 GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+  
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" alt="Profile Details" />
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="48%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" width="48%" alt="Stats" />
+  
 </div>
 
 <br/>
