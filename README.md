@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=435&lines=Welcome+to+my+Data+World" alt="Typing SVG" />
 </div>
 
@@ -27,12 +27,12 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
   <img src="https://img.shields.io/badge/Languages-Code-black?style=flat-square" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,r,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql&theme=dark" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Data_Science-Tools-black?style=flat-square" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,seaborn&theme=dark" />
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Tools-Platforms-black?style=flat-square" />
