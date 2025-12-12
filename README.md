@@ -84,7 +84,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
