@@ -23,6 +23,26 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
 <br/>
 
+<h3 align="center">🛠 Tech Stack</h3>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Languages-Code-black?style=flat-square" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,r,java,sql,bash&theme=dark" />
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Data_Science-Tools-black?style=flat-square" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark" />
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Tools-Platforms-black?style=flat-square" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,linux,jupyter,mysql,aws,tableau&theme=dark" />
+
+</div>
+
 <h2 align="center">🛠  Data Science Stack</h2>
 <div align="center">
   <a href="https://skillicons.dev">
