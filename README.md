@@ -20,6 +20,16 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 * 💬 **Ask me about:** Python, Data Visualization, and Machine Learning algorithms.
 * ⚡ **Fun fact:** I love turning messy datasets into beautiful stories!
 
+Contact Me Here: 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaung-si-thu01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 <hr />
 
 <h3 align="left">🛠 Tech Stack</h3>
@@ -56,17 +66,6 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 <br />
