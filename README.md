@@ -6,7 +6,7 @@
   <h1 align="center">
     Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a>
     <br />
-    <small>Data Scientist | Data Analyst</small>
+    <small><sub>Data Scientist | Data Analyst</sub></small>
   </h1>
 </div>
 
