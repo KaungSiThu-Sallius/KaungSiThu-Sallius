@@ -12,6 +12,17 @@
 
 <br/>
 
+<h3>👨‍💻 About Me</h3>
+
+I am a passionate **Data Scientist** and **Analyst** focused on building data-driven solutions. I enjoy uncovering trends, building machine learning models, and solving complex problems using Python and modern data tools.
+
+* 🔭 **I’m currently working on:** Advanced Data Analysis and ML projects.
+* 🌱 **I’m currently learning:** Deep Learning architectures and MLOps best practices.
+* 👯 **I’m looking to collaborate on:** Open source Data Science projects and Python libraries.
+* 💬 **Ask me about:** Python, Data Visualization, and Machine Learning algorithms.
+* ⚡ **Fun fact:** I love turning messy datasets into beautiful stories!
+
+<br/>
 
 <h2 align="center">🛠  Data Science Stack</h2>
 <div align="center">
