@@ -77,8 +77,8 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="48%" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" width="48%" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg"  alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
   
 </div>
 
