@@ -75,10 +75,5 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
   
   <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
   
-  <br/>
-  
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/2-most-commit-language.svg"  alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
-  
 </div>
 <br/>
