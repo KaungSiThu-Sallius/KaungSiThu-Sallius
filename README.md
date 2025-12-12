@@ -73,7 +73,7 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 
 <div align="left">
   
-  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" width="96%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/KaungSiThu-Sallius/KaungSiThu-Sallius/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
   
   <br/><br/>
   
