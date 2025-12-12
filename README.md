@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a></h1>
-  <h3 align="center">Data Scientist | Data Analyst </h3>
+  <h1 align="center">Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a>  <h3 align="center">Data Scientist | Data Analyst </h3></h1>
+
 </div>
 
 <br/>
