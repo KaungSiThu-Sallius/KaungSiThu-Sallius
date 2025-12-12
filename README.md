@@ -20,12 +20,10 @@ I am a passionate **Data Scientist** and **Analyst** focused on building data-dr
 * 💬 **Ask me about:** Python, Data Visualization, and Machine Learning algorithms.
 * ⚡ **Fun fact:** I love turning messy datasets into beautiful stories!
 
-<br/>
-
 <hr />
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/Languages-Code-black?style=flat-square" />
   <br/>
