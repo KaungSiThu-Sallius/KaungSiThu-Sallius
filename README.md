@@ -3,10 +3,11 @@
 </div>
 
 <div align="left">
-  <h1 align="center">
+  <h1 align="left">
     Hi, I'm <a href="https://github.com/KaungSiThu-Sallius">Kaung Si Thu</a>
     <br />
     <small><sub>Data Scientist | Data Analyst</sub></small>
+    <br />
   </h1>
 </div>
 
